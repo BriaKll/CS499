@@ -48,7 +48,7 @@ The artifacts included in my ePortfolio demonstrate different areas of my comput
 
 This artifact is an OpenGL 3D scene of an artist's table created for CS 330: Computational Graphics and Visualization. The project shows software design and engineering through improvements to code organization and functionality. The enhanced version also includes additional features such as a wireframe viewing mode.
 
-[Original](https://github.com/BriaKll/CS499/blob/main/CS330Original.zip)[Revised](https://github.com/BriaKll/CS499/blob/main/CS330Revised.zip)[Narrative](https://github.com/BriaKll/CS499/blob/main/Narrative1.docx)
+[Original](https://github.com/BriaKll/CS499/blob/main/CS330Original.zip)       [Revised](https://github.com/BriaKll/CS499/blob/main/CS330Revised.zip)       [Narrative](https://github.com/BriaKll/CS499/blob/main/Narrative1.docx)
 
 ## Narrative 1	
 Briefly describe the artifact. What is it? When was it created?
@@ -67,7 +67,7 @@ While modifying this artifact, I learned how to communicate technical concepts m
 
 This artifact is the Grazioso Salvare Dashboard created for CS 340: Client/Server Development. The application uses Python, Dash, and MongoDB to filter and display animal records. The enhanced version demonstrates algorithms and data structures through dynamic query building, query caching, and overall improved handling of data.
 
-[Original](https://github.com/BriaKll/CS499/tree/main/CS340%20Original)[Revised](https://github.com/BriaKll/CS499/tree/main/CS340%20Revised)[Narrative](https://github.com/BriaKll/CS499/blob/main/Narrative2.docx)
+[Original](https://github.com/BriaKll/CS499/tree/main/CS340%20Original)       [Revised](https://github.com/BriaKll/CS499/tree/main/CS340%20Revised)       [Narrative](https://github.com/BriaKll/CS499/blob/main/Narrative2.docx)
 
 ## Narrative 2
 Briefly describe the artifact. What is it? When was it created?
@@ -86,7 +86,7 @@ After enhancing the artifact, I now have a stronger understanding of the dash ca
 
 The third artifact also uses the Grazioso Salvare Dashboard but focuses on database development. The enhancement added complete CRUD operations, input validation, aggregation queries, and audit logging features to the dashboard. These changes improved the application’s database functionality, efficiency, and security.
 
-[Original](https://github.com/BriaKll/CS499/tree/main/CS340%20Original)[Revised](https://github.com/BriaKll/CS499/tree/main/CS340%20Revised)[Narrative](https://github.com/BriaKll/CS499/blob/main/Narrative3.docx)
+[Original](https://github.com/BriaKll/CS499/tree/main/CS340%20Original)       [Revised](https://github.com/BriaKll/CS499/tree/main/CS340%20Revised)       [Narrative](https://github.com/BriaKll/CS499/blob/main/Narrative3.docx)
 
 ## Narrative 3
 Briefly describe the artifact. What is it? When was it created?
