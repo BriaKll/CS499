@@ -1,6 +1,6 @@
 <style>
 body {
-    background-color: #529e66;
+    background-color: #3e5745;
     color: #eeeeee;
     max-width: 1000px;
     margin: 0 auto;
@@ -25,7 +25,8 @@ a {
 }
 </style>
 
-# SNHU CS 499 Computer Science Capstone Brian Keller
+# SNHU CS 499 Computer Science Capstone
+# Brian Keller
 
 ## Professional Self-Assessment
 
