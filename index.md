@@ -5,7 +5,7 @@ body {
     max-width: 1000px;
     margin: 0 auto;
     padding: 40px;
-    font-size: 14px;
+    font-size: 14px !important;
 }
 
 h1 {
