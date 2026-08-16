@@ -47,8 +47,8 @@ The artifacts included in my ePortfolio demonstrate different areas of my comput
 ## Artifact 1: Software Design and Engineering
 
 This artifact is an OpenGL 3D scene of an artist's table created for CS 330: Computational Graphics and Visualization. The project shows software design and engineering through improvements to code organization and functionality. The enhanced version also includes additional features such as a wireframe viewing mode.
-<img width="988" height="666" alt="image" src="https://github.com/user-attachments/assets/5ec75bb4-bb54-4b18-857a-cec07839f281" />
-<img width="966" height="504" alt="image" src="https://github.com/user-attachments/assets/6c53beb0-6dc1-4c99-9a42-821a4fc9af4c" />
+<img width="333" height="222" alt="image" src="https://github.com/user-attachments/assets/5ec75bb4-bb54-4b18-857a-cec07839f281" />
+<img width="333" height="222" alt="image" src="https://github.com/user-attachments/assets/6c53beb0-6dc1-4c99-9a42-821a4fc9af4c" />
 
 [Original](https://github.com/BriaKll/CS499/blob/main/CS330Original.zip)       [Revised](https://github.com/BriaKll/CS499/blob/main/CS330Revised.zip)       [Narrative](https://github.com/BriaKll/CS499/blob/main/Narrative1.docx)
 
