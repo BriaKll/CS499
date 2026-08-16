@@ -1,4 +1,31 @@
-# CS 499 Computer Science Capstone
+<style>
+body {
+    background-color: #1e1e1e;
+    color: #eeeeee;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 40px;
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+a {
+    color: #6cb6ff;
+}
+</style>
+
+# SNHU CS 499 Computer Science Capstone Brian Keller
 
 ## Professional Self-Assessment
 
