@@ -5,7 +5,7 @@ body {
     max-width: 1000px;
     margin: 0 auto;
     padding: 40px;
-    font-size: 14px !important;
+    font-size: 14px;
 }
 
 h1 {
@@ -41,6 +41,16 @@ This program also helped me better identify my strengths and professional goals.
 The artifacts included in my ePortfolio demonstrate different areas of my computer science education and how my skills have developed throughout the program. The first artifact, an OpenGL 3D scene, demonstrates software design and engineering through improvements to the structure, readability, and functionality of the program. While the program was functional upon its initial submission, the code was organized and improved using principles and techniques learned through the degree. The second and third sections of the capstone were completed using the Grazioso Salvare Dashboard to demonstrate algorithms and data structures, and database improvements. Enhancements to the dashboard improved its filtering, performance, data processing, database operations, and security. Together, these artifacts show my ability to evaluate existing software, identify areas for improvement, and apply different computer science concepts to create effective solutions.
 
 ## Code Review
+
+<iframe
+    width="700"
+    height="394"
+    src="https://www.youtube.com/embed/22Z7QsDY4wc"
+    title="CS 499 Code Review"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
 
 [Code Review Video](https://youtu.be/22Z7QsDY4wc)
 
