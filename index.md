@@ -47,6 +47,7 @@ The artifacts included in my ePortfolio demonstrate different areas of my comput
 ## Artifact 1: Software Design and Engineering
 
 This artifact is an OpenGL 3D scene of an artist's table created for CS 330: Computational Graphics and Visualization. The project shows software design and engineering through improvements to code organization and functionality. The enhanced version also includes additional features such as a wireframe viewing mode.
+
 <img width="333" height="222" alt="image" src="https://github.com/user-attachments/assets/5ec75bb4-bb54-4b18-857a-cec07839f281" />
 <img width="333" height="222" alt="image" src="https://github.com/user-attachments/assets/6c53beb0-6dc1-4c99-9a42-821a4fc9af4c" />
 
@@ -69,6 +70,8 @@ While modifying this artifact, I learned how to communicate technical concepts m
 
 This artifact is the Grazioso Salvare Dashboard created for CS 340: Client/Server Development. The application uses Python, Dash, and MongoDB to filter and display animal records. The enhanced version demonstrates algorithms and data structures through dynamic query building, query caching, and overall improved handling of data.
 
+<img width="333" height="222" alt="dashboard" src="https://github.com/user-attachments/assets/16045831-9a93-4641-be6b-302c9f37e2c9" />
+
 [Original](https://github.com/BriaKll/CS499/tree/main/CS340%20Original)       [Revised](https://github.com/BriaKll/CS499/tree/main/CS340%20Revised)       [Narrative](https://github.com/BriaKll/CS499/blob/main/Narrative2.docx)
 
 ## Narrative 2
@@ -87,6 +90,8 @@ After enhancing the artifact, I now have a stronger understanding of the dash ca
 ## Artifact 3: Databases
 
 The third artifact also uses the Grazioso Salvare Dashboard but focuses on database development. The enhancement added complete CRUD operations, input validation, aggregation queries, and audit logging features to the dashboard. These changes improved the application’s database functionality, efficiency, and security.
+
+<img width="333" height="222" alt="image" src="https://github.com/user-attachments/assets/761f4322-d1c8-4a9d-990e-f9a6568e32be" />
 
 [Original](https://github.com/BriaKll/CS499/tree/main/CS340%20Original)       [Revised](https://github.com/BriaKll/CS499/tree/main/CS340%20Revised)       [Narrative](https://github.com/BriaKll/CS499/blob/main/Narrative3.docx)
 
