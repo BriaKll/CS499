@@ -28,6 +28,14 @@ a {
 # SNHU CS 499 Computer Science Capstone
 # Brian Keller
 
+This ePortfolio showcases some of my work during the Computer Science program and demonstrates my skills in software engineering, algorithms and data structures, database development, and data analysis.
+
+[Self-Assessment](#professional-self-assessment) |
+[Code Review Video](#code-review) |
+[Artifact 1](#artifact-1-software-design-and-engineering) |
+[Artifact 2](#artifact-2-algorithms-and-data-structures) |
+[Artifact 3](#artifact-3-databases)
+
 ## Professional Self-Assessment
 
 Completing the computer science program has helped me develop my understanding of the field while helping me identify the areas that match my preferences, strengths and goals. In the program, I gained experience with programming, data analysis, databases, security, and technical communication. My interest has always been in data and analysis and the courses in this program reinforced that. Developing the ePortfolio gave me an opportunity to review work from my time at SNHU and see how I am better equipped to improve previous work. Together, these experiences have prepared me to enter the computer science field by giving me both technical experience and understanding.
