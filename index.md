@@ -1,11 +1,11 @@
 <style>
 body {
-    background-color: #1e1e1e;
+    background-color: #529e66;
     color: #eeeeee;
     max-width: 1000px;
     margin: 0 auto;
     padding: 40px;
-    font-size: 18px;
+    font-size: 14px;
 }
 
 h1 {
@@ -13,11 +13,11 @@ h1 {
 }
 
 h2 {
-    font-size: 24px;
+    font-size: 22px;
 }
 
 h3 {
-    font-size: 20px;
+    font-size: 18px;
 }
 
 a {
